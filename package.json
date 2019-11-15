@@ -1,0 +1,19 @@
+{
+  "name": "socialmediafilter",
+  "version": "1.0.0",
+  "description": "project tech stack\r FE: React.js \r BE: Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiteshGJha/socialmediafilter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiteshGJha/socialmediafilter/issues"
+  },
+  "homepage": "https://github.com/SiteshGJha/socialmediafilter#readme"
+}
